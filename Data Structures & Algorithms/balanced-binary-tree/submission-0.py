@@ -1,5 +1,5 @@
 class Solution:
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+    def isBalanced(self, root) -> bool:
         def dfs(node):
             if node is None:
                 print("Checking node=None -> returning height 0")

@@ -32,6 +32,7 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 ```
 
 **Example:**
+
 ```
 Data Structures & Algorithms/two-integer-sum/submission-0.py
 Data Structures & Algorithms/binary-search/submission-0.ts
@@ -43,7 +44,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Supported languages
 
 | Language | Extension |
-|---|---|
+| --- | --- |
 | Python | `.py` |
 | JavaScript | `.js` |
 | TypeScript | `.ts` |

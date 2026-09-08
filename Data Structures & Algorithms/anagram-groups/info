@@ -1,0 +1,10 @@
+
+<https://neetcode.io/problems/anagram-groups/question?list=neetcode150https://neetcode.io/problems/anagram-groups/question?list=neetcode150https://neetcode.io/problems/anagram-groups/question?list=neetcode150>
+
+tuples;
+
+Need to use tuple not list
+
+as list are mutable hence not hashable
+
+tuples will be immutable hence a hashable and can be used as indexes

@@ -1,3 +1,5 @@
+# https://neetcode.io/problems/is-palindrome/history?list=neetcode150&submissionIndex=0
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         left, right = 0, len(s) - 1

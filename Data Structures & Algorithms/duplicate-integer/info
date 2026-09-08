@@ -1,0 +1,7 @@
+<https://neetcode.io/problems/duplicate-integer/question?list=neetcode150>
+
+For this one,
+
+Ensure do not use sorting or any other algo, sorting makes it O(NlogN)
+
+Hash and sets keep it at O(N)
